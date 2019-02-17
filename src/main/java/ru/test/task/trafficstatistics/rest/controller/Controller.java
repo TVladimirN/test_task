@@ -112,7 +112,13 @@ public class Controller {
             }
         });
 
-        this.routeRepository.saveAll(valid);
+        try {
+            this.routeRepository.saveAll(valid);
+        } catch (Exception e) {
+            return ResponseEntity.ok(ResponseOperationPayload
+                    .error(7, "Данные роутеров не загруженны. Некоторыеы данные уже существуют."));
+        }
+
         if (!invalid.isEmpty()) {
             String ids = invalid.stream().map(RouterDAO::getId).collect(Collectors.toList()).toString();
             return ResponseEntity.ok(ResponseOperationPayload.error(1, "Данные роутеров " + ids + " не загружены."));
