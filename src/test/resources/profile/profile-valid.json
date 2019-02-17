@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "fractions": [
+      {
+        "month": "JAN",
+        "fraction": 0.1
+      },
+      {
+        "month": "FEB",
+        "fraction": 0.05
+      },
+      {
+        "month": "MAR",
+        "fraction": 0.2
+      },
+      {
+        "month": "APR",
+        "fraction": 0.05
+      },
+      {
+        "month": "MAY",
+        "fraction": 0.05
+      },
+      {
+        "month": "JUN",
+        "fraction": 0.05
+      },
+      {
+        "month": "JUL",
+        "fraction": 0.05
+      },
+      {
+        "month": "AUG",
+        "fraction": 0.05
+      },
+      {
+        "month": "SEP",
+        "fraction": 0.1
+      },
+      {
+        "month": "OCT",
+        "fraction": 0.1
+      },
+      {
+        "month": "NOV",
+        "fraction": 0.1
+      },
+      {
+        "month": "DEC",
+        "fraction": 0.1
+      }
+    ]
+  }
+]

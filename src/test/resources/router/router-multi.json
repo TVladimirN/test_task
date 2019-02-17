@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "profileId": 1,
+    "indications": [
+      {
+        "month": "JAN",
+        "value": 20
+      },
+      {
+        "month": "FEB",
+        "value": 30
+      },
+      {
+        "month": "MAR",
+        "value": 80
+      },
+      {
+        "month": "APR",
+        "value": 92
+      },
+      {
+        "month": "MAY",
+        "value": 104
+      },
+      {
+        "month": "JUN",
+        "value": 118
+      },
+      {
+        "month": "JUL",
+        "value": 130
+      },
+      {
+        "month": "AUG",
+        "value": 140
+      },
+      {
+        "month": "SEP",
+        "value": 160
+      },
+      {
+        "month": "OCT",
+        "value": 180
+      },
+      {
+        "month": "NOV",
+        "value": 210
+      },
+      {
+        "month": "DEC",
+        "value": 240
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "profileId": 2,
+    "indications": [
+      {
+        "month": "JAN",
+        "value": 20
+      },
+      {
+        "month": "FEB",
+        "value": 30
+      },
+      {
+        "month": "MAR",
+        "value": 80
+      },
+      {
+        "month": "APR",
+        "value": 83
+      },
+      {
+        "month": "MAY",
+        "value": 104
+      },
+      {
+        "month": "JUN",
+        "value": 118
+      },
+      {
+        "month": "JUL",
+        "value": 130
+      },
+      {
+        "month": "AUG",
+        "value": 140
+      },
+      {
+        "month": "SEP",
+        "value": 160
+      },
+      {
+        "month": "OCT",
+        "value": 180
+      },
+      {
+        "month": "NOV",
+        "value": 210
+      },
+      {
+        "month": "DEC",
+        "value": 240
+      }
+    ]
+  }
+]
